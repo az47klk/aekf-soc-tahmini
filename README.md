@@ -1,1 +1,2 @@
-# aekf-soc-tahmini
+# AEKF SOC TAHMİN ALGORİTMASI
+Anıl Akbaş - 200204019
